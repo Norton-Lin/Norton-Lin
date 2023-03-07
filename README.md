@@ -13,6 +13,7 @@
 ![Norton-Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norton-Lin&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norton-Lin&langs_count=8&layout=compact)](https://github.com/Norton-Lin/github-readme-stats)
+
 START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2017%20mins-blue)
 
