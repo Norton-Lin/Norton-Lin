@@ -13,7 +13,7 @@
 ![Norton-Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norton-Lin&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norton-Lin&langs_count=8&layout=compact)](https://github.com/Norton-Lin/github-readme-stats)
-<!--START_SECTION:waka-->
+START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
@@ -63,6 +63,10 @@ XML                      48 mins             ██░░░░░░░░░�
 Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 textmate                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
+💻 Operating System: 
+Windows                  9 hrs 23 mins       █████████████████████████   100.00 % 
+```
+<!--
 🔥 Editors: 
 VS Code                  5 hrs 36 mins       ███████████████░░░░░░░░░░   59.72 % 
 Eclipse                  2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
@@ -74,11 +78,7 @@ LeetCode                 1 hr 34 mins        ████░░░░░░░�
 lq_java                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 BigData                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 大数据技术基础                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-
-💻 Operating System: 
-Windows                  9 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
+-->
 **I Mostly Code in Java** 
 
 ```text
