@@ -89,12 +89,12 @@ C                        3 repos             ██████░░░░░�
 C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 ```
 
-
+<!--
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
-
+-->
 
  Last Updated on 07/03/2023 03:20:39 UTC
 <!--END_SECTION:waka-->
