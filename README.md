@@ -14,6 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norton-Lin&langs_count=8&layout=compact)](https://github.com/Norton-Lin/github-readme-stats)
 
+[Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton-Lin)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2029%20mins-blue)
 
@@ -68,14 +69,14 @@ Groovy                   36 mins             █░░░░░░░░░░�
 Android Studio           9 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.74 % 
 Eclipse                  7 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.38 % 
 VS Code                  4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-
+<--
 🐱‍💻 Projects: 
 LeetCode                 7 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.38 % 
 Mobile-Internet-developme5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
 MusicPlayer              2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 Software-engineering-team2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 Campus-transaction       1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-
+-->
 💻 Operating System: 
 Windows                  21 hrs 49 mins      █████████████████████████   100.00 % 
 ```
@@ -93,7 +94,7 @@ C                        3 repos             █████░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
+<!--![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)-->
 
 
  Last Updated on 02/06/2023 18:37:34 UTC
