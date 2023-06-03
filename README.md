@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norton-Lin&langs_count=8&layout=compact)](https://github.com/Norton-Lin/github-readme-stats)
 
-[Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
+[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2029%20mins-blue)
 
