@@ -12,7 +12,7 @@
 ### Some Stats
 ![Norton-Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norton-Lin&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norton-Lin&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norton-Lin&langs_count=10&layout=compact)
 
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
