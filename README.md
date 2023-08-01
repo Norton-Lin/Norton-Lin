@@ -17,7 +17,7 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,21 @@ Sunday                   281 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 37 mins             █████████████████████████   100.00 % 
+Python                   1 hr 59 mins        ██████████████████████░░░   88.50 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 1 min         ██████████████████████░░░   89.96 % 
+PyCharmCore              13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 
 🐱‍💻 Projects: 
-Norton-Lin.github.io     37 mins             █████████████████████████   100.00 % 
+hinghwa-dict-backend-1   2 hrs 4 mins        ███████████████████████░░   92.75 % 
+Norton-Lin.github.io     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -89,5 +94,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2023 18:38:05 UTC
+ Last Updated on 01/08/2023 18:37:48 UTC
 <!--END_SECTION:waka-->
