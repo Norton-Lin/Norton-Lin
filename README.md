@@ -17,7 +17,7 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,17 +60,17 @@ Sunday                   281 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 12 mins       █████████████████████████   98.68 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Markdown                 4 hrs 26 mins       █████████████████████████   99.34 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Norton-Lin.github.io     2 hrs 13 mins       █████████████████████████   100.00 % 
+Norton-Lin.github.io     4 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,5 +90,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2023 18:37:53 UTC
+ Last Updated on 18/08/2023 18:37:58 UTC
 <!--END_SECTION:waka-->
