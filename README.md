@@ -17,15 +17,13 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 177.6 kB Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,20 +58,20 @@ Sunday                   278 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 3 mins        ████████████████████░░░░░   80.98 % 
-Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Java                     3 hrs 23 mins       █████████████████████░░░░   82.48 % 
+Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-algorithm                3 hrs 8 mins        █████████████████████░░░░   82.83 % 
-Unknown Project          38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+algorithm                3 hrs 27 mins       █████████████████████░░░░   84.18 % 
+Unknown Project          38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 
 💻 Operating System: 
-Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -93,5 +91,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2024 18:39:10 UTC
+ Last Updated on 20/01/2024 18:37:17 UTC
 <!--END_SECTION:waka-->
