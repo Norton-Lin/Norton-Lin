@@ -25,6 +25,8 @@
 
 > 📦 205.4 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -58,21 +60,16 @@ Sunday                   276 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 11 mins        ███████████████░░░░░░░░░░   58.58 % 
-Go                       50 mins             ██████████░░░░░░░░░░░░░░░   41.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 8 mins         ██████████████░░░░░░░░░░░   56.04 % 
-VS Code                  53 mins             ███████████░░░░░░░░░░░░░░   43.96 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-algorithm                52 mins             ███████████░░░░░░░░░░░░░░   42.45 % 
-林志                       49 mins             ██████████░░░░░░░░░░░░░░░   40.71 % 
-Unknown Project          20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         ██████████████░░░░░░░░░░░   56.04 % 
-Windows                  53 mins             ███████████░░░░░░░░░░░░░░   43.96 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +89,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2024 18:46:11 UTC
+ Last Updated on 01/10/2024 18:46:12 UTC
 <!--END_SECTION:waka-->
