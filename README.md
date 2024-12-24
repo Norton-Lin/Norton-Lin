@@ -25,8 +25,6 @@
 
 > 📦 205.9 kB Used in GitHub's Storage 
  > 
-> 🏆 397 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -93,5 +91,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2024 18:44:29 UTC
+ Last Updated on 24/12/2024 18:44:23 UTC
 <!--END_SECTION:waka-->
