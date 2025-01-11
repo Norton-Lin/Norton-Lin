@@ -58,20 +58,16 @@ Sunday                   286 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       9 mins              █████████░░░░░░░░░░░░░░░░   35.34 % 
-Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Makefile                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-YAML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-proactive-ddos-defender  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -91,5 +87,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2025 18:45:49 UTC
+ Last Updated on 11/01/2025 18:43:00 UTC
 <!--END_SECTION:waka-->
