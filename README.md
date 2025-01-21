@@ -17,13 +17,15 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 205.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,20 +60,20 @@ Sunday                   286 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       28 mins             ████████████████████████░   97.15 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Go                       35 mins             ████████████████████████░   97.66 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-algorithm                18 mins             ███████████████░░░░░░░░░░   61.85 % 
-proactive-ddos-defender_n7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-proactive-ddos-defender  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-coraza-coreruleset       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+algorithm                24 mins             █████████████████░░░░░░░░   67.45 % 
+proactive-ddos-defender_n7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+proactive-ddos-defender  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+coraza-coreruleset       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,5 +93,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2025 18:43:39 UTC
+ Last Updated on 21/01/2025 18:45:22 UTC
 <!--END_SECTION:waka-->
