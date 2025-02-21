@@ -17,7 +17,7 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,16 +58,22 @@ Sunday                   286 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 31 mins       █████████████████████████   100.00 % 
+Go                       4 hrs 14 mins       ██████████████░░░░░░░░░░░   55.97 % 
+Other                    2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-algorithm                3 hrs 31 mins       █████████████████████████   100.00 % 
+proactive-ddos-defender  4 hrs 10 mins       ██████████████░░░░░░░░░░░   55.05 % 
+algorithm                3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.95 % 
 
 💻 Operating System: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 10 mins       ██████████████░░░░░░░░░░░   55.05 % 
+Windows                  3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.95 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +93,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 18:45:51 UTC
+ Last Updated on 21/02/2025 18:45:16 UTC
 <!--END_SECTION:waka-->
