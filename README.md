@@ -2,10 +2,11 @@
 # Hi there 👋
 
 ### I'm Norton_Lin
-- 🏫 A student at Beijing University of Posts and Telecommunications.
-- 🌱 Majoring in Computer Science and Technology
-- 📫 How to reach me: norton@bupt.edu.cn
-- 🌱 I'm currently working on backend development
+- 🏫 A master's student at Beijing University of Posts and Telecommunications.
+- 🌱 Majoring in Mobile Target Defense and Zero Trust Architecture
+- 💻 Skilled in backend development
+- 🤖 Currently interested in the field of intelligent agents
+- 📫 How to reach me: [norton@bupt.edu.cn](mailto:norton@bupt.edu.cn)
 
 - Welcome to communicate with me
 
