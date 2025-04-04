@@ -3,7 +3,7 @@
 
 ### I'm Norton_Lin
 - 🏫 A master's student at Beijing University of Posts and Telecommunications.
-- 🌱 Majoring in Mobile Target Defense and Zero Trust Architecture
+- 🌱 Majoring in Moving Target Defense and Zero Trust Architecture
 - 💻 Skilled in backend development
 - 🤖 Currently interested in the field of intelligent agents
 - 📫 How to reach me: [norton@bupt.edu.cn](mailto:norton@bupt.edu.cn)
