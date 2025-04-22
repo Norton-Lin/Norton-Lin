@@ -18,13 +18,15 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-956%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-959%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 207.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 189 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,5 +101,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2025 18:48:52 UTC
+ Last Updated on 22/04/2025 18:49:14 UTC
 <!--END_SECTION:waka-->
