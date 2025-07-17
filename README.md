@@ -18,9 +18,9 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C002%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -59,20 +59,18 @@ Sunday                   324 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 34 mins        ███████████████████████░░   91.10 % 
-Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Python                   1 hr 49 mins        ████████████████████████░   94.32 % 
+BibTeX                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-python                   1 hr 34 mins        ███████████████████████░░   91.10 % 
-algorithm                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-问题遗留日报                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+python                   1 hr 49 mins        ████████████████████████░   94.32 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +90,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 18:55:25 UTC
+ Last Updated on 17/07/2025 18:56:04 UTC
 <!--END_SECTION:waka-->
