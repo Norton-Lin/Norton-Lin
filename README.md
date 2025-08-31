@@ -18,13 +18,13 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2046%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 209.8 kB Used in GitHub's Storage 
- > 
-> 🏆 374 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,6 +32,45 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                476 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+🌆 Daytime                962 commits         ███████████░░░░░░░░░░░░░░   44.29 % 
+🌃 Evening                675 commits         ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   325 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Tuesday                  460 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Wednesday                296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Thursday                 308 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Friday                   244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Saturday                 214 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Sunday                   325 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JSON                     0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Downloads                0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -49,5 +88,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:45:42 UTC
+ Last Updated on 31/08/2025 18:46:32 UTC
 <!--END_SECTION:waka-->
