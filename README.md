@@ -18,7 +18,7 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,45 +34,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                490 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-🌆 Daytime                966 commits         ███████████░░░░░░░░░░░░░░   44.01 % 
-🌃 Evening                680 commits         ████████░░░░░░░░░░░░░░░░░   30.98 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Tuesday                  463 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Wednesday                301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Thursday                 311 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Saturday                 217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Sunday                   327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       1 hr 13 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-algorithm                1 hr 13 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -90,5 +51,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2025 18:47:32 UTC
+ Last Updated on 25/09/2025 18:49:51 UTC
 <!--END_SECTION:waka-->
