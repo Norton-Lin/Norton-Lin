@@ -61,19 +61,16 @@ Sunday                   333 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CSV                      3 hrs 49 mins       ██████████████████████░░░   87.49 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Airport                  4 hrs 7 mins        ████████████████████████░   94.20 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +90,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2025 18:50:30 UTC
+ Last Updated on 15/12/2025 18:56:12 UTC
 <!--END_SECTION:waka-->
