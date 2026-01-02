@@ -18,8 +18,6 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2023%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -34,45 +32,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                498 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-🌆 Daytime                973 commits         ███████████░░░░░░░░░░░░░░   43.73 % 
-🌃 Evening                695 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  473 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Wednesday                306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Thursday                 311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Friday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Saturday                 222 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Sunday                   333 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -90,5 +49,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:54:18 UTC
+ Last Updated on 02/01/2026 18:53:46 UTC
 <!--END_SECTION:waka-->
