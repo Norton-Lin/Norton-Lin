@@ -18,7 +18,9 @@
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C051%20hrs%2050%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -32,6 +34,45 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                500 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+🌆 Daytime                1007 commits        ███████████░░░░░░░░░░░░░░   43.63 % 
+🌃 Evening                728 commits         ████████░░░░░░░░░░░░░░░░░   31.54 % 
+🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   333 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Tuesday                  481 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Wednesday                324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Thursday                 335 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Friday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Saturday                 230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Sunday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -49,5 +90,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:01:33 UTC
+ Last Updated on 03/02/2026 19:27:35 UTC
 <!--END_SECTION:waka-->
