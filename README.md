@@ -11,11 +11,11 @@
 - Welcome to communicate with me
 
 ### Some Stats
-![Norton-Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norton-Lin&count_private=true&show_icons=true&theme=radical)
+![Norton-Lin's GitHub stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norton-Lin&langs_count=10&layout=compact)
+![Top Langs](./profile/top-langs.svg)
 
-![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Norton_Lin)
+![Code Time](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C051%20hrs%2050%20mins-blue?style=flat)
