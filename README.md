@@ -18,7 +18,7 @@
 ![Code Time](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C051%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -61,18 +61,18 @@ Sunday                   359 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 27 mins             ███████████████████░░░░░░   75.02 % 
-Other                    9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Markdown                 30 mins             ███████████████████░░░░░░   76.72 % 
+Other                    9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-写书                       36 mins             █████████████████████████   100.00 % 
+写书                       40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +92,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 19:22:37 UTC
+ Last Updated on 13/04/2026 19:49:19 UTC
 <!--END_SECTION:waka-->
