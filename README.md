@@ -18,9 +18,7 @@
 ![Code Time](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C053%20hrs%2052%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -34,45 +32,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                502 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-🌆 Daytime                1041 commits        ███████████░░░░░░░░░░░░░░   43.54 % 
-🌃 Evening                761 commits         ████████░░░░░░░░░░░░░░░░░   31.83 % 
-🌙 Night                  87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Tuesday                  489 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Wednesday                342 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Saturday                 238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Sunday                   355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 3 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Interview-Experience     3 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -90,5 +49,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 20:15:31 UTC
+ Last Updated on 15/05/2026 20:02:00 UTC
 <!--END_SECTION:waka-->
