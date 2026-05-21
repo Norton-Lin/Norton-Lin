@@ -61,8 +61,7 @@ Sunday                   355 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      19 mins             ████████████████████░░░░░   79.18 % 
-Other                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+TeX                      24 mins             █████████████████████████   99.98 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
@@ -93,5 +92,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 20:35:06 UTC
+ Last Updated on 21/05/2026 20:21:26 UTC
 <!--END_SECTION:waka-->
