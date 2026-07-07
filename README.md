@@ -24,7 +24,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 211.6 kB Used in GitHub's Storage 
+> 📦 211.7 kB Used in GitHub's Storage 
  > 
 > 🏆 8 Contributions in the Year 2026
  > 
@@ -61,16 +61,16 @@ Sunday                   359 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+论文集                      13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +90,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 20:26:24 UTC
+ Last Updated on 07/07/2026 20:26:39 UTC
 <!--END_SECTION:waka-->
