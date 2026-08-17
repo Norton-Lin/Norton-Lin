@@ -63,41 +63,22 @@ Sunday                   409 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 mins             ████████████████░░░░░░░░░   65.15 % 
-YAML                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-TeX                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Paper                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (91.91%)
-
-✍️ 195 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,101,948 Input Tokens, 15,031 Output Tokens
-
-💵 $5.96 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-GPT                      195 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -117,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:57:36 UTC
+ Last Updated on 17/08/2026 19:08:59 UTC
 <!--END_SECTION:waka-->
