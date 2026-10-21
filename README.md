@@ -63,22 +63,43 @@ Sunday                   429 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   48 mins             ████████░░░░░░░░░░░░░░░░░   32.44 % 
+Text                     48 mins             ████████░░░░░░░░░░░░░░░░░   32.16 % 
+JSON                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 56 mins        ███████████████████░░░░░░   77.74 % 
+VS Code                  33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+论文集                      2 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 10 mins (86.98%)
+
+✍️ 792 lines written by AI, 1 lines written by hand (99.87% AI-written)
+
+🔤 1,339,153 Input Tokens, 115,783 Output Tokens
+
+💵 $54.68 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 13 AI Prompts
+
+GPT                      794 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.87% of written lines came from AI
+📝 Concise Prompter — average 351 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +119,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 21:49:21 UTC
+ Last Updated on 21/10/2026 21:55:11 UTC
 <!--END_SECTION:waka-->
