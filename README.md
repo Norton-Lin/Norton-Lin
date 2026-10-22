@@ -18,11 +18,11 @@
 ![Code Time](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C045%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,43 +63,44 @@ Sunday                   429 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   48 mins             ████████░░░░░░░░░░░░░░░░░   32.44 % 
-Text                     48 mins             ████████░░░░░░░░░░░░░░░░░   32.16 % 
-JSON                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Python                   2 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.13 % 
+Text                     1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   33.58 % 
+JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 56 mins        ███████████████████░░░░░░   77.74 % 
-VS Code                  33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Codex Vscode             3 hrs 54 mins       █████████████████████░░░░   85.31 % 
+VS Code                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 
 🐱‍💻 Projects: 
-论文集                      2 hrs 29 mins       █████████████████████████   100.00 % 
+论文集                      4 hrs 31 mins       █████████████████████████   99.04 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (86.98%)
+⏱ AI Coding Time: 4 hrs 15 mins (92.91%)
 
-✍️ 792 lines written by AI, 1 lines written by hand (99.87% AI-written)
+✍️ 1,601 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
-🔤 1,339,153 Input Tokens, 115,783 Output Tokens
+🔤 2,223,248 Input Tokens, 212,100 Output Tokens
 
-💵 $54.68 Estimated AI Cost This Week
+💵 $93.18 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 13 AI Prompts
+🧠 11 AI Sessions, 17 AI Prompts
 
-GPT                      794 lines           █████████████████████████   100.00 % 
+GPT                      1,603 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📝 Concise Prompter — average 351 characters per prompt
+🤖 AI-Driven — 99.94% of written lines came from AI
+📝 Concise Prompter — average 298 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -119,5 +120,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:55:11 UTC
+ Last Updated on 22/10/2026 21:52:30 UTC
 <!--END_SECTION:waka-->
