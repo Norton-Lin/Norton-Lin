@@ -26,9 +26,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 211.9 kB Used in GitHub's Storage 
+> 📦 619.6 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,21 +39,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                516 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-🌆 Daytime                1289 commits        ███████████░░░░░░░░░░░░░░   43.28 % 
-🌃 Evening                988 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
-🌙 Night                  185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+🌞 Morning                519 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+🌆 Daytime                1290 commits        ███████████░░░░░░░░░░░░░░   43.26 % 
+🌃 Evening                988 commits         ████████░░░░░░░░░░░░░░░░░   33.13 % 
+🌙 Night                  185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Tuesday                  545 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Wednesday                468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Thursday                 527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Friday                   359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Saturday                 294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Sunday                   429 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Monday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Tuesday                  545 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Wednesday                468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Thursday                 527 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Friday                   359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Saturday                 298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Sunday                   429 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 ```
 
 
@@ -63,51 +63,52 @@ Sunday                   429 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.13 % 
-Text                     1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   33.58 % 
-JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Python                   3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Markdown                 2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+JSON                     1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Text                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 54 mins       █████████████████████░░░░   85.31 % 
-VS Code                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Codex Vscode             6 hrs 19 mins       █████████████████░░░░░░░░   66.76 % 
+VS Code                  3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.24 % 
 
 🐱‍💻 Projects: 
-论文集                      4 hrs 31 mins       █████████████████████████   99.04 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+论文集                      4 hrs 54 mins       █████████████░░░░░░░░░░░░   51.79 % 
+zta-base-dual-pep        4 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.72 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 15 mins (92.91%)
+⏱ AI Coding Time: 8 hrs 33 mins (90.26%)
 
-✍️ 1,601 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 7,933 lines written by AI, 5 lines written by hand (99.94% AI-written)
 
-🔤 2,223,248 Input Tokens, 212,100 Output Tokens
+🔤 6,387,260 Input Tokens, 776,214 Output Tokens
 
-💵 $93.18 Estimated AI Cost This Week
+💵 $237.81 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 17 AI Prompts
+🧠 47 AI Sessions, 57 AI Prompts
 
-GPT                      1,603 lines         █████████████████████████   100.00 % 
+GPT                      7,935 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.94% of written lines came from AI
-📝 Concise Prompter — average 298 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+📝 Concise Prompter — average 357 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Go                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Go                       4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
@@ -120,5 +121,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:36:18 UTC
+ Last Updated on 24/10/2026 21:06:20 UTC
 <!--END_SECTION:waka-->
