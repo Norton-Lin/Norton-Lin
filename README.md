@@ -18,11 +18,11 @@
 ![Code Time](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,46 +63,46 @@ Sunday                   429 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   21 hrs 43 mins      ███████████████░░░░░░░░░░   59.58 % 
-Markdown                 8 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-JSON                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Text                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Go                       1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Python                   29 hrs 42 mins      ████████████████░░░░░░░░░   63.61 % 
+Markdown                 9 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Go                       2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+JSON                     2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Text                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-Codex Vscode             31 hrs 45 mins      ██████████████████████░░░   87.13 % 
-VS Code                  4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Codex Vscode             41 hrs 13 mins      ██████████████████████░░░   88.26 % 
+VS Code                  5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 
 🐱‍💻 Projects: 
-zta-base-dual-pep        31 hrs 30 mins      ██████████████████████░░░   86.41 % 
-论文集                      4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+zta-base-dual-pep        41 hrs 45 mins      ██████████████████████░░░   89.40 % 
+论文集                      4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  36 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 29 mins (97.33%)
+⏱ AI Coding Time: 45 hrs 44 mins (97.91%)
 
-✍️ 205,131 lines written by AI, 8 lines written by hand (100.0% AI-written)
+✍️ 241,123 lines written by AI, 8 lines written by hand (100.0% AI-written)
 
-🔤 40,152,333 Input Tokens, 11,936,950 Output Tokens
+🔤 45,909,886 Input Tokens, 13,853,742 Output Tokens
 
-💵 $3752.74 Estimated AI Cost This Week
+💵 $4465.36 Estimated AI Cost This Week
 
-🧠 107 AI Sessions, 133 AI Prompts
+🧠 141 AI Sessions, 148 AI Prompts
 
-GPT                      205,117 lines       █████████████████████████   99.90 % 
-Codex-Vscode             199 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+GPT                      241,167 lines       █████████████████████████   99.92 % 
+Codex-Vscode             199 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
+📝 Concise Prompter — average 211 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +122,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:51:09 UTC
+ Last Updated on 27/10/2026 22:31:31 UTC
 <!--END_SECTION:waka-->
