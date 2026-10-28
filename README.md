@@ -63,44 +63,44 @@ Sunday                   429 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   29 hrs 42 mins      ████████████████░░░░░░░░░   63.61 % 
-Markdown                 9 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Go                       2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-JSON                     2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Text                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Python                   32 hrs 44 mins      ████████████████░░░░░░░░░   63.90 % 
+Markdown                 10 hrs 54 mins      █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Go                       4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Text                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-Codex Vscode             41 hrs 13 mins      ██████████████████████░░░   88.26 % 
-VS Code                  5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Codex Vscode             46 hrs 18 mins      ███████████████████████░░   90.37 % 
+VS Code                  4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🐱‍💻 Projects: 
-zta-base-dual-pep        41 hrs 45 mins      ██████████████████████░░░   89.40 % 
-论文集                      4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+zta-base-dual-pep        48 hrs 46 mins      ████████████████████████░   95.20 % 
+论文集                      2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  46 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  51 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 hrs 44 mins (97.91%)
+⏱ AI Coding Time: 50 hrs 35 mins (98.73%)
 
-✍️ 241,123 lines written by AI, 8 lines written by hand (100.0% AI-written)
+✍️ 262,367 lines written by AI, 7 lines written by hand (100.0% AI-written)
 
-🔤 45,909,886 Input Tokens, 13,853,742 Output Tokens
+🔤 49,612,561 Input Tokens, 14,932,184 Output Tokens
 
-💵 $4465.36 Estimated AI Cost This Week
+💵 $4793.93 Estimated AI Cost This Week
 
-🧠 141 AI Sessions, 148 AI Prompts
+🧠 163 AI Sessions, 174 AI Prompts
 
-GPT                      241,167 lines       █████████████████████████   99.92 % 
+GPT                      262,429 lines       █████████████████████████   99.92 % 
 Codex-Vscode             199 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 211 characters per prompt
+📝 Concise Prompter — average 169 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -122,5 +122,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:31:31 UTC
+ Last Updated on 28/10/2026 22:47:19 UTC
 <!--END_SECTION:waka-->
