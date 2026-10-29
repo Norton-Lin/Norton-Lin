@@ -18,9 +18,9 @@
 ![Code Time](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -63,39 +63,39 @@ Sunday                   429 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   32 hrs 44 mins      ████████████████░░░░░░░░░   63.90 % 
-Markdown                 10 hrs 54 mins      █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Go                       4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Text                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Python                   31 hrs 34 mins      ████████████████░░░░░░░░░   64.06 % 
+Markdown                 10 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Go                       4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Git Config               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Codex Vscode             46 hrs 18 mins      ███████████████████████░░   90.37 % 
-VS Code                  4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Codex Vscode             44 hrs 28 mins      ███████████████████████░░   90.22 % 
+VS Code                  4 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🐱‍💻 Projects: 
-zta-base-dual-pep        48 hrs 46 mins      ████████████████████████░   95.20 % 
-论文集                      2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+zta-base-dual-pep        48 hrs 55 mins      █████████████████████████   99.24 % 
+论文集                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  51 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  49 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 hrs 35 mins (98.73%)
+⏱ AI Coding Time: 48 hrs 38 mins (98.68%)
 
-✍️ 262,367 lines written by AI, 7 lines written by hand (100.0% AI-written)
+✍️ 261,558 lines written by AI, 7 lines written by hand (100.0% AI-written)
 
-🔤 49,612,561 Input Tokens, 14,932,184 Output Tokens
+🔤 48,957,556 Input Tokens, 14,838,703 Output Tokens
 
-💵 $4793.93 Estimated AI Cost This Week
+💵 $4759.04 Estimated AI Cost This Week
 
-🧠 163 AI Sessions, 174 AI Prompts
+🧠 161 AI Sessions, 171 AI Prompts
 
-GPT                      262,429 lines       █████████████████████████   99.92 % 
+GPT                      261,620 lines       █████████████████████████   99.92 % 
 Codex-Vscode             199 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
@@ -122,5 +122,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Norton-Lin/Norton-Lin/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:47:19 UTC
+ Last Updated on 29/10/2026 22:56:12 UTC
 <!--END_SECTION:waka-->
